@@ -1,2 +1,3 @@
 # ftc-test
-First FTC report
+
+We will use this repo to store FTC team code.
